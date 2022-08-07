@@ -1,1 +1,1 @@
-welcome to new git
+new clone
